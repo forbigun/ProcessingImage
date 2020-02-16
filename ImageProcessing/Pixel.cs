@@ -1,5 +1,4 @@
 ﻿using System.Drawing;
-
 namespace ImageProcessing
 {
     public class Pixel
